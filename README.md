@@ -1,16 +1,137 @@
-## Hi there 👋
+# 👨🏽‍💻 Alesson S Calaça
+**`Desenvolvedor Python - Analista de Dados`**
 
-<!--
-**Ale-Calassa/Ale-Calassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Alesson — Computer Science student 💻 passionate about technology, data, and innovation. 
+Curious by nature and driven to grow, I’ve gained academic experience in programming, networks, data analysis, and agile methodologies through university projects and bootcamps. With a background in customer service, I bring strong communication, empathy, and adaptability. I'm seeking opportunities in tech to apply my skills, grow technically, and contribute to impactful, collaborative projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com/in/alesson-de-santana-cala%C3%A7a-0a6b601b5/" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Conecte-se comigo no LinkedIn" 
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+    </a>
+    <a href="https://github.com/Ale-Calassa?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Ale-Calassa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Ale-Calassa?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Ale-Calassa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 💻 Linguagens e Tecnologias 🤖
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"    
+/>
+<img 
+    align="left"
+    alt="React"
+    title="React"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img 
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    
+<br/>
+<br/>
+<br/>
+
+### 📊 Estatisticas
+
+<p>
+    <img 
+        align="left" 
+        alt="Github Stats" 
+        height="200" 
+        style="padding-right: 10px" 
+        src="https://github-readme-stats.vercel.app/api?username=Ale-Calassa&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    />
+    <img 
+        align="left" 
+        alt="" 
+        height="200" 
+        style="padding-right: 10px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Calassa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
+</p>
