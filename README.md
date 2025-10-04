@@ -31,7 +31,7 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
 
 ---
 
-### 💻 Linguagens e Tecnologias 🤖
+## 💻 Linguagens e Tecnologias 🤖
 
 <img 
     align="left"
@@ -59,56 +59,64 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
 />
 <img 
     align="left"
-    alt="Python"
-    title="Python"
+    alt="HTML"
+    title="HTML"
     width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img 
     align="left"
-    alt="Python"
-    title="Python"
+    alt="CSS"
+    title="CSS"
     width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img 
     align="left"
-    alt="Python"
-    title="Python"
+    alt="PostgreSQL"
+    title="PostgreSQL"
     width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left"
-    alt="Python"
-    title="Python"
+    alt="MySQL"
+    title="MySQL"
     width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
     align="left"
-    alt="Python"
-    title="Python"
+    alt="Java"
+    title="Java"
     width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left"
-    alt="Python"
-    title="Python"
+    alt="Docker"
+    title="Docker"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+<img 
+    align="left"
+    alt="Linux"
+    title="Linux"
     width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 <img 
     align="left"
-    alt="Python"
-    title="Python"
+    alt="Git"
+    title="Git"
     width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
