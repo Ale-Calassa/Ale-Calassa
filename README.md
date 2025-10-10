@@ -125,7 +125,7 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
 <br/>
 <br/>
 
-### 📊 Estatisticas
+## 📊 Estatisticas
 
 <p>
     <img 
