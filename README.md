@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Alesson S Calaça
-**`Desenvolvedor Python - Analista de Dados`**
+**`Python Developer - Data Analyst`**
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!!!+👋;+Welcome+to+my+GitHub!!!" />
 </h1>
@@ -35,7 +35,7 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
 
 ---
 
-## 💻 Linguagens e Tecnologias 🤖
+## 💻 Languages and Technologies /  🤖
 
 <img 
     align="left"
@@ -130,7 +130,7 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
 <br/>
 <br/>
 
-## 📊 Estatisticas
+## 📊 Statistics
 
 <p>
     <img 
