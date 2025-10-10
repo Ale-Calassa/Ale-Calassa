@@ -35,7 +35,7 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
 
 ---
 
-## 💻 Languages and Technologies /  🤖
+## 💻 Languages and Technologies 🤖
 
 <img 
     align="left"
