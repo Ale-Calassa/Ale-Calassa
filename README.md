@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Alesson S Calaça
-**`Python Developer - Data Analyst`**
+**`Full Stack Developer & Data Analyst`**
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!!!+👋;+Welcome+to+my+GitHub!!!" />
 </h1>
