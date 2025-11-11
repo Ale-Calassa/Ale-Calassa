@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Alesson S Calaça
-**`Full Stack Developer & Data Analyst`**
+**`Junior Full Stack Developer & Junior Data Analyst`**
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!!!+👋;+Welcome+to+my+GitHub!!!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!!!+👋;+🤖Welcome+to+my+GitHub!!!"/>
 </h1>
 
 ## About Me 
@@ -44,6 +44,14 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
     width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"    
+/>
+<img 
+    align="left"
+    alt="Jupyter"
+    title="Jupyter"
+    width="35px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
 <img 
     align="left"
@@ -123,7 +131,8 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
     title="Git"
     width="35px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
     
 <br/>
 <br/>
