@@ -4,10 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!!!+👋;+🤖Welcome+to+my+GitHub!!!"/>
 </h1>
 
-## About Me 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=ABOUT+ME+👨🏽‍💻"/>
+</h1>
+
 Hello, I'm Alesson — Computer Science student 💻 passionate about technology, data, and innovation. 
 Curious by nature and driven to grow, I’ve gained academic experience in programming, networks, data analysis, and agile methodologies through university projects and bootcamps. With a background in customer service, I bring strong communication, empathy, and adaptability. I'm seeking opportunities in tech to apply my skills, grow technically, and contribute to impactful, collaborative projects.
 
+---
 
 <p align="left">
     <a href="https://www.linkedin.com/in/alesson-de-santana-cala%C3%A7a-0a6b601b5/" target="_blank">
