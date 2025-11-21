@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Alesson S Calaça
+# 👨🏽‍💻 *Alesson S Calaça*
 **`Junior Full Stack Developer & Junior Data Analyst`**
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!!!+👋;+🤖Welcome+to+my+GitHub!!!"/>
@@ -39,7 +39,7 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
 
 ---
 
-## 💻 Languages and Technologies 🤖
+## 💻 *Languages and Technologies 🤖*
 
 <img 
     align="left"
@@ -137,13 +137,22 @@ Curious by nature and driven to grow, I’ve gained academic experience in progr
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-    
-<br/>
+
 <br/>
 <br/>
 <br/>
 
-## 📊 Statistics
+| *Dominio* | *Ferramentas e Frameworks* |
+|--------|--------------------|
+| **Frontend** | React · JavaScript · TypeScript · HTML · CSS Preprocessors |
+| **Backend** | Python · FastAPI · Flask · Django |
+| **DataBase** | MySQL · PostgreSQL · SqLite |
+| **Automation** | Developing my skills |
+| **DevOps** | Docker · CI/CD · GitHub Actions |
+
+---
+
+## 📊 *Statistics*
 
 <p>
     <img 
